@@ -1,4 +1,4 @@
-# Scraping Amazon Today's Deal
+# Scraping "Today's Deal" in Amazon using Selenium Webdriver
 
 This is a Selenium Web Scraping project for extracting the best daily deals in Amazon site along with the deal offers and the image urls.
 
