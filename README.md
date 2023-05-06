@@ -15,7 +15,7 @@ can plan ahead of time and make a decision as soon as a better deal offer is ann
 ---------------------------------------------------------
 
     ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
+    ├── Makefile           <- Makefile with various commands
     ├── README.md          <- The top-level README for developers using this project.
     ├── scraping_data
     │   ├── csv            <- Data in csv format compatible with pandas dataframe.
