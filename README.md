@@ -9,13 +9,15 @@ Project Organization
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
     ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── processed      <- Data with few adjustments for better visualization.
-    │   └── raw            <- The output data from the scraped site.
+    ├── scraping_data
+    │   ├── csv            <- Data in csv format compatible with pandas dataframe.
+    │   ├── excel          <- Data in xlsx format for better data analysis.
+    │   ├── xml            <- Data in xml format.
+    │   └── json           <- Data in Json format for better utilization.
     │
     │
     │
-    ├── img            <- Contains various image files.
+    ├── img                <- Contains project image files.
     │   
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
@@ -25,7 +27,7 @@ Project Organization
     ├── src                <- Source code for use in this project.
     │   ├── __init__.py    <- Makes src a Python module
     │   │
-    │   ├── main           <- Script to automate web scraping using Selenium
+    │   ├── main           <- Contains scripts to automate web scraping using Selenium
     │   │   └── amazon_todays_deal.py
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
