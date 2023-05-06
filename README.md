@@ -1,10 +1,19 @@
-Scraping Amazon Today's Deal
-==============================
+# Scraping Amazon Today's Deal
+========================================================
 
 This is a Selenium Web Scraping project for extracting the best daily deals in Amazon site along with the deal offers and the image urls.
 
-Project Organization
-------------
+## Introduction
+---------------------------------------------------------
+For regular customers at Amazon, it is imperative to keep track of a myriad of items such as electronic devices, household tools, and 
+so forth. The incentive of this project is to scrape the "Today's deal" section of Amazon to automate a bot for scraping valuable 
+information a customer might be interested in purchasing or might purchase later once a better deal was announced. This way, a customer 
+can plan ahead of time and make a decision as soon as a better deal offer is announced, which in most cases is a limited type of offer.
+
+![alt text](https://github.com/shahriar-rahman/Amazon-Today-Using-Selenium/blob/main/img/amazon_deals.PNG)
+
+## Project Organization
+---------------------------------------------------------
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
