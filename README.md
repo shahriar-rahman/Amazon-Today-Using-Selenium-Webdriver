@@ -42,4 +42,17 @@ can plan ahead of time and make a decision as soon as a better deal offer is ann
 
 
 --------
+## Methods used:
+• Selenium 4.8.3
 
+• Webdriver and Expected Conditions
+
+• System queue, Implicit and Explicit Waits
+
+• Chrome and Chrome Options
+
+• Pagination
+
+• DataFrame Manipulation using Pandas
+
+• Data Storage using CSV, Excel, JSON and XML format
